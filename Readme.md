@@ -25,11 +25,9 @@ Before using the script, make sure you have the following:
 
 4. Paste the script into the Chrome console and press `Enter`. (Allow download of multiple files, when the script is run for the first time.)
 
-5. The script will start running and prompt you for the necessary information (e.g., URL, destination folder).
+5. The script will start running.
 
-6. Follow the prompts and provide the required details.
-
-7. The script will download the answer sheets and save them to the specified destination folder.
+7. The script will download the answer sheets.
 
 8. Repeat the process for each subject, pasting the script separately in the Chrome console.
 
